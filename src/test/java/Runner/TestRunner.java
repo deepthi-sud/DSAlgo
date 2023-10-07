@@ -18,24 +18,17 @@ glue={"StepDefinitions","Hooks"},
 plugin = {"pretty","io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 		"html:Reports/Cucumber-Reports/Reports.html"},
-
+tags="@Home",
 dryRun=false,
 monochrome = true)
 
-public class TestRunner{
+public class TestRunner {
+
+	
 	
 }
-
 //public class TestRunner extends AbstractTestNGCucumberTests {
-
-//	@DataProvider(parallel=false)
-//	public Object[][]scenarios(){
-//		return super.scenarios();
-//	}
+//
 //	
-//	@BeforeTest
-//	@Parameters("browser")
-//	public void beforeClass(String browser){
-//		ConfigReader.setBrowserType("browser");
-//	}
+//	
 //}

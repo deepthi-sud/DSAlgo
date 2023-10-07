@@ -10774,3 +10774,539 @@
 [INFO ] 2023-10-05 23:43:54.604 [main] LoggerLoad - The user clicks run button
 [INFO ] 2023-10-05 23:43:56.697 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
 [INFO ] 2023-10-05 23:43:56.701 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-05 23:58:52.083 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-05 23:58:52.093 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-05 23:58:52.096 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-05 23:59:01.027 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-05 23:59:01.504 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:04.772 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-05 23:59:05.168 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:05.401 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:05.574 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-05 23:59:06.073 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:06.121 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:06.354 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-05 23:59:06.645 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:06.737 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:07.019 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-05 23:59:07.505 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:07.786 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:08.270 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-05 23:59:08.840 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:08.869 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:09.298 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-05 23:59:09.839 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:09.907 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:10.312 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-05 23:59:10.960 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:10.983 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:11.598 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-05 23:59:12.162 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:12.185 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:12.794 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-05 23:59:13.980 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:13.994 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:14.621 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-05 23:59:15.180 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:15.207 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:15.820 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-05 23:59:16.476 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:16.509 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:17.128 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-05 23:59:17.703 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:17.743 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:18.385 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-05 23:59:19.094 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:19.113 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:19.949 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-05 23:59:19.954 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-05 23:59:19.973 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:20.882 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-05 23:59:20.885 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-05 23:59:20.894 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-05 23:59:43.667 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-05 23:59:43.675 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-05 23:59:43.676 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-05 23:59:50.498 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-05 23:59:51.014 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:54.320 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-05 23:59:54.806 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:54.935 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:55.122 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-05 23:59:55.429 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:55.587 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:55.746 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-05 23:59:56.070 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:56.120 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:56.301 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-05 23:59:56.602 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:56.625 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:56.857 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-05 23:59:57.145 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:57.213 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:57.470 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-05 23:59:57.745 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:57.775 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:57.941 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-05 23:59:58.205 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-05 23:59:58.228 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-05 23:59:59.153 [main] LoggerLoad - User click on Arrays
+[ERROR] 2023-10-05 23:59:59.233 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-05 23:59:59.336 [main] LoggerLoad - The user is on Home page
+[ERROR] 2023-10-05 23:59:59.385 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-05 23:59:59.412 [main] LoggerLoad - The user is on Home page
+[ERROR] 2023-10-05 23:59:59.422 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-05 23:59:59.463 [main] LoggerLoad - The user is on Home page
+[ERROR] 2023-10-05 23:59:59.472 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-05 23:59:59.509 [main] LoggerLoad - The user is on Home page
+[ERROR] 2023-10-05 23:59:59.532 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-05 23:59:59.579 [main] LoggerLoad - The user is on Home page
+[ERROR] 2023-10-05 23:59:59.592 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-05 23:59:59.614 [main] LoggerLoad - The user is on Home page
+[ERROR] 2023-10-05 23:59:59.625 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-05 23:59:59.659 [main] LoggerLoad - The user is on Home page
+[ERROR] 2023-10-05 23:59:59.669 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-05 23:59:59.685 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-06 21:04:34.489 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-06 21:04:34.511 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-06 21:04:34.511 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-06 21:04:47.509 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-06 21:04:52.045 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/overview-of-trees/
+[INFO ] 2023-10-06 21:04:52.107 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:04:53.043 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:07.720 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:08.209 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:08.322 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:08.349 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:09.240 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:09.410 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:11.612 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:12.196 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/terminologies/
+[INFO ] 2023-10-06 21:05:12.217 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:12.586 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:12.802 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:13.054 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:13.068 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:13.084 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:13.434 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:13.616 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:15.745 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:16.288 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-trees/
+[INFO ] 2023-10-06 21:05:16.301 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:16.669 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:17.303 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:17.552 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:17.571 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:17.583 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:17.947 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:18.058 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:20.213 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:21.119 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/tree-traversals/
+[INFO ] 2023-10-06 21:05:21.134 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:21.501 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:21.819 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:22.078 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:22.090 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:22.101 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:22.823 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:22.945 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:25.096 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:25.674 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/traversals-illustration/
+[INFO ] 2023-10-06 21:05:25.686 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:26.333 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:26.628 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:26.881 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:26.893 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:26.899 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:27.621 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:27.796 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:29.949 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:30.707 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-trees/
+[INFO ] 2023-10-06 21:05:30.721 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:31.200 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:31.705 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:31.975 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:31.993 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:32.007 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:32.580 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:32.772 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:34.930 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:35.792 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-binary-trees/
+[INFO ] 2023-10-06 21:05:35.805 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:36.362 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:36.630 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:36.879 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:36.891 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:36.902 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:37.214 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:37.337 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:39.513 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:40.094 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-in-python/
+[INFO ] 2023-10-06 21:05:40.107 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:40.750 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:41.036 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:41.287 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:41.301 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:41.312 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:41.635 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:41.869 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:44.017 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:44.453 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-tree-traversals/
+[INFO ] 2023-10-06 21:05:44.473 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:44.790 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:44.921 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:45.201 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:45.211 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:45.219 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:45.633 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:45.734 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:48.345 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:49.669 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-binary-trees/
+[INFO ] 2023-10-06 21:05:49.727 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:50.622 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:50.747 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:51.012 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:51.049 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:51.073 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:51.517 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:51.613 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:53.766 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:54.171 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/applications-of-binary-trees/
+[INFO ] 2023-10-06 21:05:54.187 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:54.589 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:55.051 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:55.334 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:55.374 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:55.395 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:55.745 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:05:55.823 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:57.971 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:05:58.991 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-search-trees/
+[INFO ] 2023-10-06 21:05:59.013 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:05:59.342 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:05:59.470 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:05:59.718 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:05:59.731 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:05:59.750 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:06:00.114 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:06:00.207 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:06:02.428 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:06:02.822 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-bst/
+[INFO ] 2023-10-06 21:06:02.831 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:06:03.252 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-06 21:06:03.380 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:06:03.628 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-06 21:06:03.656 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-06 21:06:03.666 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-06 21:06:03.980 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-06 21:06:04.100 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-06 21:06:06.244 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-06 21:06:06.246 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-06 21:11:19.955 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-06 21:11:19.963 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-06 21:11:19.963 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-06 21:11:28.654 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-06 21:11:28.822 [main] LoggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-10-06 21:11:30.054 [main] LoggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-10-06 21:11:32.571 [main] LoggerLoad - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-10-06 21:11:32.584 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-06 22:03:34.837 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-06 22:03:34.844 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-06 22:03:34.846 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-06 22:03:50.190 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-06 22:03:50.552 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:03:54.659 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-06 22:03:55.109 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:03:55.282 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:03:55.442 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-06 22:03:55.749 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:03:55.791 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:03:55.931 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-06 22:03:56.188 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:03:56.271 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:03:56.437 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-06 22:03:56.743 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:03:56.818 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:03:56.970 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-06 22:03:57.349 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:03:57.373 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:03:57.515 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-06 22:03:57.833 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:03:57.871 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:03:58.019 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-06 22:03:58.276 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:03:58.320 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:03:58.738 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-06 22:03:59.100 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:03:59.119 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:03:59.487 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-06 22:04:01.857 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:04:01.884 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:04:02.321 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-06 22:04:02.541 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:04:02.566 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:04:02.975 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-06 22:04:03.188 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:04:03.210 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:04:03.628 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-06 22:04:03.889 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:04:03.916 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:04:04.276 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-06 22:04:04.488 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:04:04.515 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:04:04.881 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-06 22:04:04.886 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-06 22:04:04.915 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:04:05.266 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-06 22:04:05.269 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-06 22:04:05.274 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-06 22:06:51.487 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-06 22:06:51.495 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-06 22:06:51.497 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-06 22:06:59.617 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-06 22:07:00.005 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:04.727 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-06 22:07:05.253 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:05.389 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:05.547 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-06 22:07:05.841 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:06.143 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:06.302 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-06 22:07:06.599 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:06.651 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:06.838 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-06 22:07:07.271 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:07.425 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:07.556 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-06 22:07:07.826 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:07.900 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:08.059 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-06 22:07:08.467 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:08.491 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:08.631 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-06 22:07:09.072 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:09.103 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:09.485 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-06 22:07:09.936 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:09.965 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:10.317 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-06 22:07:10.525 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:10.549 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:10.909 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-06 22:07:11.124 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:11.154 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:11.524 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-06 22:07:11.777 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:11.816 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:12.269 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-06 22:07:12.650 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:12.675 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:13.043 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-06 22:07:13.383 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:07:13.410 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:13.741 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-06 22:07:13.756 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-06 22:07:13.794 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:07:14.173 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-06 22:07:14.177 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-06 22:07:14.191 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-06 22:13:32.564 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-06 22:13:32.577 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-06 22:13:32.580 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-06 22:13:39.476 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-06 22:13:39.993 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:42.909 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-06 22:13:43.336 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:43.487 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:43.641 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-06 22:13:43.958 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:44.035 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:44.294 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-06 22:13:44.607 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:44.645 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:44.802 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-06 22:13:45.262 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:45.304 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:45.529 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-06 22:13:45.827 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:45.856 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:45.985 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-06 22:13:46.245 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:46.276 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:46.418 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-06 22:13:46.657 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:46.687 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:47.053 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-06 22:13:47.273 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:47.289 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:47.670 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-06 22:13:47.878 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:47.925 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:48.327 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-06 22:13:48.552 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:48.563 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:48.945 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-06 22:13:49.173 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:49.192 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:49.595 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-06 22:13:49.883 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:49.899 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:50.433 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-06 22:13:50.894 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:13:50.909 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:51.221 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-06 22:13:51.225 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-06 22:13:51.261 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:13:51.554 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-06 22:13:51.557 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-06 22:13:51.567 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-06 22:14:15.244 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-06 22:14:15.251 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-06 22:14:15.253 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-06 22:14:21.951 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-06 22:14:22.393 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:25.222 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-06 22:14:25.601 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:25.726 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:25.861 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-06 22:14:26.150 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:26.188 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:26.322 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-06 22:14:26.618 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:26.687 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:26.875 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-06 22:14:27.209 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:27.244 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:27.484 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-06 22:14:27.775 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:27.795 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:27.943 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-06 22:14:28.209 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:28.238 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:28.412 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-06 22:14:28.677 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:28.707 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:29.108 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-06 22:14:29.328 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:29.352 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:29.741 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-06 22:14:29.988 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:30.007 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:30.405 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-06 22:14:30.702 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:30.737 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:31.121 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-06 22:14:31.361 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:31.390 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:31.754 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-06 22:14:32.253 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:32.278 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:32.635 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-06 22:14:32.951 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:14:32.974 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:33.306 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-06 22:14:33.312 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-06 22:14:33.338 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:14:33.653 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-06 22:14:33.656 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-06 22:14:33.672 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-06 22:46:25.960 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-06 22:46:25.968 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-06 22:46:25.970 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-06 22:46:32.852 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-06 22:46:33.252 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:36.231 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-06 22:46:36.610 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:36.742 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:36.877 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-06 22:46:37.135 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:37.187 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:37.331 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-06 22:46:37.597 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:37.663 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:37.817 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-06 22:46:38.116 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:38.166 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:38.310 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-06 22:46:38.582 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:38.604 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:38.757 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-06 22:46:39.033 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:39.067 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:39.199 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-06 22:46:39.448 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:39.472 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:39.867 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-06 22:46:40.071 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:40.095 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:40.447 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-06 22:46:40.662 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:40.683 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:41.035 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-06 22:46:41.354 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:41.386 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:41.737 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-06 22:46:41.950 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:41.980 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:42.336 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-06 22:46:42.627 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:42.649 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:43.070 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-06 22:46:43.448 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:46:43.468 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:43.830 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-06 22:46:43.833 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-06 22:46:43.868 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:46:44.249 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-06 22:46:44.252 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-06 22:46:44.303 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-06 22:47:36.733 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-06 22:47:36.740 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-06 22:47:36.742 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-06 22:47:42.722 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-06 22:47:43.198 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:46.042 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-06 22:47:46.463 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:46.663 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:46.812 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-06 22:47:47.219 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:47.334 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:47.661 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-06 22:47:47.950 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:48.032 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:48.225 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-06 22:47:48.747 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:48.783 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:48.937 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-06 22:47:49.302 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:49.334 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:49.471 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-06 22:47:49.998 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:50.019 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:50.180 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-06 22:47:50.552 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:50.596 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:50.992 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-06 22:47:51.312 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:51.352 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:51.751 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-06 22:47:51.976 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:51.997 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:52.376 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-06 22:47:52.824 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:52.871 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:53.242 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-06 22:47:53.557 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:53.581 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:53.968 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-06 22:47:54.353 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:54.381 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:54.810 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-06 22:47:55.132 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-06 22:47:55.148 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:55.510 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-06 22:47:55.523 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-06 22:47:55.545 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-06 22:47:55.863 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-06 22:47:55.870 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-06 22:47:55.911 [main] LoggerLoad - Closing Driver

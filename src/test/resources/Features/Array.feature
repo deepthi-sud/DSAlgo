@@ -1,18 +1,6 @@
 @Array
 Feature: User is on Array Page
 
-#Background: The user is logged in to DS Algo portal
-    #Given The user is on Signin page of DS Algo portal
-    #When The user enter valid "testuser" and "password1234"
-    #And The user click on login button
-    #Then The user redirected to homepage
-
- #@Array0
-  #Scenario: The user is able to navigate to Array page
-    #Given The user is on the Home page
-    #When The user clicks Arrays in Python link
-    #Then The user should be redirected to Arrays in Python page
-
   @Array1
   Scenario: The user is able to navigate to Arrays in Python page
     Given The user is on the Array page

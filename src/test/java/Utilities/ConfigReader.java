@@ -34,7 +34,7 @@ public class ConfigReader {
 //		browserType=browser;
 //	}
 //	
-//	public static String getBrowserType()throws Throwable {
+//	public static String getBrowserType() throws Throwable {
 //		//String browser = properties.getProperty("browser");
 //		LoggerLoad.info("Get property BrowserType");
 //		if (browserType != null)
@@ -42,7 +42,7 @@ public class ConfigReader {
 //		else
 //			throw new RuntimeException("browser not specified in the config.properties file.");
 //	}
-	
+//	
 	public static String getBrowserType()throws Throwable {
         String browser = properties.getProperty("browser");
         LoggerLoad.info("Get property BrowserType");

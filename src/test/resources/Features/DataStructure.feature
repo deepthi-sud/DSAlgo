@@ -1,11 +1,6 @@
 @DataStructure
 Feature: Testing the Data Structure Page
 
-  #Background: The user is logged in to DS Algo portal
-  #Given The user is on Signin page of DS Algo portal
-  #When The user enter valid "testuser" and "password1234"
-  #And The user click on login button
-  #Then The user redirected to homepage
   @DS01
   Scenario: The user is able to navigate to DS Page
     Given The user is on the DS page

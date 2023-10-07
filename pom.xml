@@ -14,10 +14,6 @@
 					  <includes>
 						<include>**/TestRunner.java</include>
 					</includes>
-					<suiteXmlFiles>
-						<suiteXmlFile>TestNG.xml</suiteXmlFile>
-					</suiteXmlFiles>
-					<argLine></argLine>
 				</configuration>
 			</plugin>
 			<plugin>

@@ -1,11 +1,6 @@
 @Tree
 Feature: Testing the Tree Page
 
-  #Given The user is on Signin page of DS Algo portal
-  #When The user enter valid "testuser" and "password1234"
-  #And The user click on login button
-  #Then The user redirected to homepage
-  
   @Tree01
   Scenario: The user is able to navigate to Tree Page
     Given The user is on the Tree page
