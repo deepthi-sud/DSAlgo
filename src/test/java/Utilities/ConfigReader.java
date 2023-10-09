@@ -343,6 +343,14 @@ public class ConfigReader {
 			throw new RuntimeException("timecomplexity Url not specified in the Config.properties file.");
 	}
 
+	public static String registerPageURL() {
+		String url = properties.getProperty("registerurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Register Url not specified in the Config.properties file.");
+	}
+
 
 	
 }
