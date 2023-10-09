@@ -28,29 +28,29 @@ public class ConfigReader {
 		}
 	}
 
-//	private static String browserType=null;
-//	
-//	public static void setBrowserType(String browser) {
-//		browserType=browser;
-//	}
-//	
-//	public static String getBrowserType() throws Throwable {
-//		//String browser = properties.getProperty("browser");
-//		LoggerLoad.info("Get property BrowserType");
-//		if (browserType != null)
-//			return browserType;
-//		else
-//			throw new RuntimeException("browser not specified in the config.properties file.");
-//	}
-//	
-	public static String getBrowserType()throws Throwable {
-        String browser = properties.getProperty("browser");
-        LoggerLoad.info("Get property BrowserType");
-		if (browser != null)
-			return browser;
+	private static String browserType=null;
+	
+	public static void setBrowserType(String browser) {
+		browserType=browser;
+	}
+	
+	public static String getBrowserType() throws Throwable {
+		//String browser = properties.getProperty("browser");
+		LoggerLoad.info("Get property BrowserType");
+		if (browserType != null)
+			return browserType;
 		else
 			throw new RuntimeException("browser not specified in the config.properties file.");
 	}
+	
+//	public static String getBrowserType()throws Throwable {
+//        String browser = properties.getProperty("browser");
+//        LoggerLoad.info("Get property BrowserType");
+//		if (browser != null)
+//			return browser;
+//		else
+//			throw new RuntimeException("browser not specified in the config.properties file.");
+//	}
 	
 	public static String getExcelFilepPath() {
 		String path=properties.getProperty("excelpath");

@@ -44,9 +44,7 @@ public class Hooks {
 		//Initializing Driver using Driver Factory
 	    driver = DriverFactory.initializeDrivers(browser);
 		LoggerLoad.info("Initializing driver for : "+browser);
-//		driverfactory = new DriverFactory();
-//		driver = DriverFactory.initializeDrivers(browser);
-//		LoggerLoad.info("Initializing driver for : "+browser);
+
 	}
 	
 	

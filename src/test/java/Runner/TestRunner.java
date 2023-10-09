@@ -1,7 +1,12 @@
 package Runner;
 
-import org.junit.runner.RunWith;
 
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
+
+import Utilities.ConfigReader;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
@@ -16,4 +21,18 @@ monochrome = false
 
 public class TestRunner extends AbstractTestNGCucumberTests {
 	
-}
+
+	@DataProvider(parallel=false)
+	public Object[][]scenarios(){
+		return super.scenarios();
+	}
+	
+	@BeforeTest
+    @Parameters({"browser"})
+	
+	public void defineBrowser(@Optional String Browser){
+		ConfigReader.setBrowserType(Browser);
+	}
+	
+	}
+	

@@ -82,7 +82,7 @@ Feature: Validating Register page
     Given The user opens Register Page
     When The user enters a valid "username" and "password" and "password confirmation"
       | username   | password  | password confirmation |
-      | testuser15 | pass@1234 | pass@1234             |
+      | testuser16 | pass@1234 | pass@1234             |
     Then The user should be redirected to Homepage with the message "New Account Created. You are logged in as <username>"
 
   @Register12
