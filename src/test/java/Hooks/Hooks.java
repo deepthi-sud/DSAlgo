@@ -58,17 +58,17 @@ public class Hooks {
 		
 	}
 
-//	@AfterStep
-//	public void a(Scenario scenario) {
-//		if (scenario.isFailed()) {    
-//			LoggerLoad.error("Steps Failed , Taking Screenshot");
-//			final byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
-//			scenario.attach(screenshot, "image/png", "My screenshot");
-//			Allure.addAttachment("Myscreenshot",
-//					new ByteArrayInputStream(((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES)));
-//		
-//		}
-//	}
+	@AfterStep
+	public void a(Scenario scenario) {
+		if (scenario.isFailed()) {    
+			LoggerLoad.error("Steps Failed , Taking Screenshot");
+			final byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
+			scenario.attach(screenshot, "image/png", "My screenshot");
+			Allure.addAttachment("Myscreenshot",
+					new ByteArrayInputStream(((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES)));
+		
+		}
+	}
 	
 	@AfterAll
 	public static void after() {
